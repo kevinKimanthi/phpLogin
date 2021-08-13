@@ -1,4 +1,4 @@
-# Complete User Login & Registration system using PHP and MySQL database
+# This is a complete login with Php and MySql database
 
 #UserName : kevin
 #Password : pass123
